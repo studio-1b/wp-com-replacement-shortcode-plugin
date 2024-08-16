@@ -28,6 +28,6 @@ https://www.godaddy.com/en-ca/help/install-a-wordpress-plugin-from-a-zip-file-40
 The bob-shortcode-plugin.zip file should contain exactly what is in the source code here in this repository.  Clone this repository, if you want to make modifications of your own.
 
 ## To repack as your own plugin, read:
-https://make.wordpress.org/cli/handbook/how-to/how-to-create-custom-plugins/
-https://www.tbare.com/2018/10/create-a-simple-wordpress-plugin/
-https://wpengine.com/resources/create-custom-shortcode-in-wordpress/
+* https://make.wordpress.org/cli/handbook/how-to/how-to-create-custom-plugins/
+* https://www.tbare.com/2018/10/create-a-simple-wordpress-plugin/
+* https://wpengine.com/resources/create-custom-shortcode-in-wordpress/
