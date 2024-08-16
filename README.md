@@ -9,3 +9,9 @@ Plugin to install, if you want easy way to (mostly) restore [googlemap] shortcod
 
  So this will make both work more or less the same way in wordpress software.  Though some differences exist.  This was a project to migrate Wordpress.com to my own server and I didn't expect so much to not implemented in wordpress software.  Hope this helps a little.  None of the code is production quality, and was barely tested by me (since it is so simple).  Just enough, so it works.
  
+Installing using WP-CLI (https://developer.wordpress.org/cli/commands/plugin/install/)
+```
+wp plugin install ../my-plugin.zip
+```
+
+https://www.godaddy.com/en-ca/help/install-a-wordpress-plugin-from-a-zip-file-40849
